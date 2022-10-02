@@ -13,3 +13,7 @@
 * Katarzyna Zalewska
 * [Seba Konopka](https://www.facebook.com/groups/2236541863226146/user/100009303192907/)
 * [Seba Konopka](https://www.facebook.com/groups/2236541863226146/user/100063062852597/)
+
+## Dodatkowe informacje
+
+* [PPBITopedia](https://www.facebook.com/groups/ppbit/learning_content?filter=861351224851997&post=778162323430179) - pewnie będzie co jakiś czas aktualizowana przez admina PPBIT
