@@ -22,4 +22,4 @@ Jest na forume kilka kont należących do krewnych Mokebe, które wydają sie zu
 
 ## Dodatkowe informacje
 
-* [PPBITopedia](https://www.facebook.com/groups/ppbit/learning_content?filter=861351224851997&post=778162323430179) - pewnie będzie co jakiś czas aktualizowana przez admina PPBIT
+* [PPBITopedia](https://www.facebook.com/groups/ppbit/learning_content?filter=861351224851997&post=778162323430179) - pewnie będzie co jakiś czas aktualizowana przez [admina PPBIT](https://github.com/Trolololodev)
