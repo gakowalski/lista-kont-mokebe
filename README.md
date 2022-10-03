@@ -6,6 +6,7 @@
 * [Mokebe Głuszak](https://www.facebook.com/groups/2236541863226146/user/100067905650673/) (drugie)
 * [MG Recepcja](https://www.facebook.com/groups/2236541863226146/user/100073881917018/)
 * [Maciek Głuszak II](https://www.facebook.com/groups/2236541863226146/user/100022724210922/)
+* [Monstrualne Memy Mokebe](https://www.facebook.com/groups/2236541863226146/user/100063795783421/)
 * [Rajmund Dupczoch - certyfikowany terapeuta homoseksualizmu](https://www.facebook.com/groups/2236541863226146/user/100067227997774/)
 
 💡 Mokebe używa powyższe konta zamiennie w zależności od aktualnych banów lub własnego kaprysu. Wyjątkiem jest konto Rajmunda, które zdaje się być przeznaczonym na awaryjne sytuacje typu całkowite ograniczenie wszystkich innych kont.
