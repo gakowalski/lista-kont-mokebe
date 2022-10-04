@@ -764,6 +764,7 @@ M4QkhvD68QcE9BoWKstMaK0icx16jv8JasOi02llE+UAAAAASUVORK5CYII=]]></sys:String>
 		</node>
 		<node id="n1">
 			<data key="d0">1</data>
+			<data key="d2"><![CDATA[https://www.facebook.com/groups/2236541863226146/user/1060862159/]]></data>
 			<data key="d3"><![CDATA[]]></data>
 			<data key="d4">
 				<x:List>
@@ -821,6 +822,7 @@ M4QkhvD68QcE9BoWKstMaK0icx16jv8JasOi02llE+UAAAAASUVORK5CYII=]]></sys:String>
 		</node>
 		<node id="n2">
 			<data key="d0">2</data>
+			<data key="d2"><![CDATA[https://www.facebook.com/groups/2236541863226146/user/100067905650673/]]></data>
 			<data key="d3"><![CDATA[]]></data>
 			<data key="d4">
 				<x:List>
@@ -873,6 +875,7 @@ M4QkhvD68QcE9BoWKstMaK0icx16jv8JasOi02llE+UAAAAASUVORK5CYII=]]></sys:String>
 		</node>
 		<node id="n3">
 			<data key="d0">3</data>
+			<data key="d2"><![CDATA[https://www.facebook.com/groups/2236541863226146/user/100073881917018/]]></data>
 			<data key="d3"><![CDATA[]]></data>
 			<data key="d4">
 				<x:List>
@@ -985,6 +988,7 @@ M4QkhvD68QcE9BoWKstMaK0icx16jv8JasOi02llE+UAAAAASUVORK5CYII=]]></sys:String>
 		</node>
 		<node id="n5">
 			<data key="d0">5</data>
+			<data key="d2"><![CDATA[https://www.facebook.com/groups/2236541863226146/user/100022724210922/]]></data>
 			<data key="d3"><![CDATA[]]></data>
 			<data key="d4">
 				<x:List>
@@ -1073,6 +1077,7 @@ M4QkhvD68QcE9BoWKstMaK0icx16jv8JasOi02llE+UAAAAASUVORK5CYII=]]></sys:String>
 		</node>
 		<node id="n7">
 			<data key="d0">7</data>
+			<data key="d2"><![CDATA[https://www.facebook.com/groups/2236541863226146/user/100063795783421/]]></data>
 			<data key="d3"><![CDATA[]]></data>
 			<data key="d4">
 				<x:List>
@@ -1114,12 +1119,14 @@ M4QkhvD68QcE9BoWKstMaK0icx16jv8JasOi02llE+UAAAAASUVORK5CYII=]]></sys:String>
 		</node>
 		<node id="n8">
 			<data key="d0">8</data>
+			<data key="d2"><![CDATA[https://www.facebook.com/groups/2236541863226146/user/100067227997774/]]></data>
 			<data key="d3"><![CDATA[]]></data>
 			<data key="d4">
 				<x:List>
 					<y:Label>
+						<y:Label.Text><![CDATA[Rajmund Dupczoch]]></y:Label.Text>
 						<y:Label.LayoutParameter>
-							<y:RatioAnchoredLabelModelParameter LayoutOffset="35.5,79"/>
+							<y:RatioAnchoredLabelModelParameter LayoutOffset="-15,79"/>
 						</y:Label.LayoutParameter>
 						<y:Label.Style>
 							<yjs:DefaultLabelStyle horizontalTextAlignment="CENTER" autoFlip="false" textFill="#FF000000">
