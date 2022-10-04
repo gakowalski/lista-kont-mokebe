@@ -11,12 +11,6 @@
 
 💡 Mokebe używa powyższe konta zamiennie w zależności od aktualnych banów lub własnego kaprysu. Wyjątkiem jest konto Rajmunda, które zdaje się być przeznaczonym na awaryjne sytuacje typu całkowite ograniczenie wszystkich innych kont.
 
-## Niepotwierdzone, oparte o plotki i insynuacje
-
-* Katarzyna Zalewska
-* [Seba Konopka](https://www.facebook.com/groups/2236541863226146/user/100009303192907/) (pierwsze)
-* [Seba Konopka](https://www.facebook.com/groups/2236541863226146/user/100063062852597/) (drugie)
-
 ## Konta krewnych Mokebe
 
 Jest na forume kilka kont należących do krewnych Mokebe, które wydają sie zupełnie szczerze należeć do tych osób. Nic nie wskazuje na to, aby były to trollkonta kiedykolwiek użyte przez Mokebe.
