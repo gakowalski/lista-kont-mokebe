@@ -11,6 +11,10 @@
 
 💡 Mokebe używa powyższe konta zamiennie w zależności od aktualnych banów lub własnego kaprysu. Wyjątkiem jest konto Rajmunda, które zdaje się być przeznaczonym na awaryjne sytuacje typu całkowite ograniczenie wszystkich innych kont.
 
+## Diagram powiązań między kontami Mokebe
+
+[Podgląd online](https://www.yworks.com/yed-live/?file=https://raw.githubusercontent.com/gakowalski/lista-kont-mokebe/main/relationships.graphml)
+
 ## Konta krewnych Mokebe
 
 Jest na forume kilka kont należących do krewnych Mokebe, które wydają sie zupełnie szczerze należeć do tych osób. Nic nie wskazuje na to, aby były to trollkonta kiedykolwiek użyte przez Mokebe.
