@@ -4,6 +4,7 @@
 
 * [Mokebe Głuszak](https://www.facebook.com/groups/2236541863226146/user/1060862159/) (pierwsze)
 * [Mokebe Głuszak](https://www.facebook.com/groups/2236541863226146/user/100067905650673/) (drugie)
+* [Mokotowski Gym](https://www.facebook.com/groups/2236541863226146/user/100069087826384/)
 * [MG Recepcja](https://www.facebook.com/groups/2236541863226146/user/100073881917018/)
 * [Maciek Głuszak II](https://www.facebook.com/groups/2236541863226146/user/100022724210922/)
 * [Monstrualne Memy Mokebe](https://www.facebook.com/groups/2236541863226146/user/100063795783421/)
