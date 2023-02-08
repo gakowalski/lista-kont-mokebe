@@ -9,6 +9,7 @@
 * [Maciek Głuszak II](https://www.facebook.com/groups/2236541863226146/user/100022724210922/)
 * [Monstrualne Memy Mokebe](https://www.facebook.com/groups/2236541863226146/user/100063795783421/)
 * [Rajmund Dupczoch - certyfikowany terapeuta homoseksualizmu](https://www.facebook.com/groups/2236541863226146/user/100067227997774/)
+* [Woodwork for programmers. By Mokebe.](https://www.facebook.com/groups/2236541863226146/user/100089373280534) - przynależność do Mokebe potwierdzona przez niego samego w [tym poście](https://www.facebook.com/mcgluszak/posts/pfbid02zwVUkSWi64mUuBLRDXKV2SE8bdzQp3Z5CmkGCGswvyqPJB2rYAn9VSuVFK4pFkGEl)
 
 💡 Mokebe używa powyższe konta zamiennie w zależności od aktualnych banów lub własnego kaprysu. Wyjątkiem jest konto Rajmunda, które zdaje się być przeznaczonym na awaryjne sytuacje typu całkowite ograniczenie wszystkich innych kont.
 
